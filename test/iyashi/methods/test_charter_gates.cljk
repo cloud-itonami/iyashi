@@ -18,7 +18,7 @@
   None of these touch the substrate-wide no-server-key (G7) or Murakumo-only (G6) invariants —
   iyashi holds no key and records AI-assist as an audited, human-in-loop run (G8/G12)."
   (:require [kotoba.test :refer [deftest is run-tests]]
-            [clojure.edn :as edn]))
+            [kotoba.lang.edn :as edn]))
 
 #?(:clj
    (do
