@@ -125,11 +125,11 @@ enforcement lands at R1 Council attestation review.
 ## Related Files
 
 - `manifest.edn`
-- `CLAUDE.md`
+- `AGENTS.md`
 - `lex/ (canonical EDN; wire/ contains external JSON)` (6 Lexicons + README)
 - `/90-docs/adr/2605263000-iyashi-clinical-care-provider-tier-b-actor-r0.md`
 - `/90-docs/adr/2605181100-mst-encrypted-records-signal-keywrap.md` — privacy envelope
 - `/90-docs/adr/2605261000-labor-liberation-transition-mechanism.md` — L4 gate
 - `/90-docs/adr/2605261030-hagukumi-care-tier-b-actor-r0.md` — sibling R0 pattern
 - `/CHARTER-RIDER.md` §2(e) + §2(c) — G11 commercial EHR prohibition source
-- `/CLAUDE.md` — Religious-corp status table
+- `/AGENTS.md` — Religious-corp status table

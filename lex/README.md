@@ -41,7 +41,7 @@ strict validation + encryptedPayloadCid enforcement is not yet active
 
 - `manifest.edn`
 - `README.md`
-- `CLAUDE.md`
+- `AGENTS.md`
 - `/90-docs/adr/2605263000-iyashi-clinical-care-provider-tier-b-actor-r0.md`
 - `/90-docs/adr/2605181100-mst-encrypted-records-signal-keywrap.md` — privacy envelope
 - `/00-contracts/lexicons/com/etzhayyim/hagukumi/` — sibling Lexicon pattern reference
