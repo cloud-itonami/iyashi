@@ -1,4 +1,4 @@
-# com-etzhayyim-iyashi — CLAUDE.md
+# com-etzhayyim-iyashi — AGENTS.md
 
 ## Identity
 
@@ -169,4 +169,4 @@ Expected: all 6 imports raise `RuntimeError` with "R0 scaffold" message.
 - `/90-docs/adr/2605262700-chigiri-legal-procedure-tier-b-actor-r0.md` — chigiri cross-actor
 - `/90-docs/adr/2605262900-toritate-accounting-audit-tier-b-actor-r0.md` — toritate cross-actor
 - `/CHARTER-RIDER.md` — G11 commercial EHR prohibition source
-- `/CLAUDE.md` — Religious-corp status table
+- `/AGENTS.md` — Religious-corp status table
